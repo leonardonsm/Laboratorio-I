@@ -1,2 +1,2 @@
 # Laboratorio-I
-Investigación Laboratorio
+Materia Laboratorio I - Ciencias Físicas 2016 - Universidad de Concepción
